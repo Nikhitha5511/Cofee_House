@@ -38,11 +38,11 @@
 * color: Sets the text color.
 * border: Adds a border to the input element.
 * display, justify-content, align-items: These properties are used to control the layout and alignment of elements within the .coffee_menu section.
-
-  # Hosted Link
-  https://nikhitha5511.github.io/Cofee_House/?authuser=0
 * height, width: These properties set the dimensions of the coffee images.
 * box-shadow: Adds a shadow effect to the images when hovered.
 * margin-block: Adds margin to the headings within the .coffee_menu section.
 * background-color, padding, border-radius: These properties are used to style the .des sections.
 * line-height: Controls the spacing between lines of text.
+
+ # Hosted Link
+  https://nikhitha5511.github.io/Cofee_House/?authuser=0
