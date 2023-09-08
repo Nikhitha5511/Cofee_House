@@ -1,4 +1,4 @@
-3 Cofee_House
+# Cofee_House
 
 1.![first](s5.png)
 * The nav represents the navigation section of the web page. It is often used for menus, search bars, and other navigation-related content.
@@ -38,6 +38,9 @@
 * color: Sets the text color.
 * border: Adds a border to the input element.
 * display, justify-content, align-items: These properties are used to control the layout and alignment of elements within the .coffee_menu section.
+
+  # Hosted Link
+  https://nikhitha5511.github.io/Cofee_House/?authuser=0
 * height, width: These properties set the dimensions of the coffee images.
 * box-shadow: Adds a shadow effect to the images when hovered.
 * margin-block: Adds margin to the headings within the .coffee_menu section.
